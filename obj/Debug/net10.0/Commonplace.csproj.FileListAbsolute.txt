@@ -1,0 +1,15 @@
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/bin/Debug/net10.0/Commonplace
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/bin/Debug/net10.0/Commonplace.deps.json
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/bin/Debug/net10.0/Commonplace.runtimeconfig.json
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/bin/Debug/net10.0/Commonplace.dll
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/bin/Debug/net10.0/Commonplace.pdb
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/Commonplace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/Commonplace.AssemblyInfoInputs.cache
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/Commonplace.AssemblyInfo.cs
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/Commonplace.csproj.CoreCompileInputs.cache
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/Commonplace.sourcelink.json
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/Commonplace.dll
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/refint/Commonplace.dll
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/Commonplace.pdb
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/Commonplace.genruntimeconfig.cache
+/Users/emilyhoffmann/Documents/goodness c#/Commonplace/obj/Debug/net10.0/ref/Commonplace.dll
