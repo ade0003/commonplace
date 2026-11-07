@@ -9,3 +9,41 @@ Console.WriteLine("2.Add a film");
 Console.WriteLine("3.View all books");
 Console.WriteLine("4.View all films");
 Console.WriteLine("5.Exit\n");
+
+
+
+public abstract class Media
+{
+    
+    public string Title{get; set;}
+    public bool IsCompleted{get; set;}
+}
+
+public class Book : Media
+{
+    public string Author{get; set;}
+
+    public Book(string title, string author, bool isCompleted)
+    {
+        Title = title;
+        Author = author;
+        IsCompleted = isCompleted;
+    }
+
+}
+
+public class Film : Media
+{
+    
+
+    public string Director{get; set;}
+    public int ReleaseYear{get; set;}
+
+    public Film(string title, string director, int releaseYear, bool isCompleted)
+    {
+        Title = title;
+        Director = director;
+        ReleaseYear = releaseYear;
+        IsCompleted = isCompleted;
+    }
+}
